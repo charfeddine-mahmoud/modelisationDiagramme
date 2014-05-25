@@ -1,0 +1,48 @@
+                                    Faculté des Sciences de Monastir
+                              Département des Sciences de l'Informatique
+                                            2010-2011
+
+
+Ceci est un logiciel qui est develloppé dans le cadre d'un mini projet de Base de Données Objets
+chez Madame Nacira Intitulé Assistant de Code ODL(Objet data language).
+
+Réaliser par:
+
+Bilel Mnasser TD2 TP3.
+Charfeddine Mahmoud TD1 TP1.
+Zrelli Issam Eddine TD1 TP2.
+
+
+avec Visual studio 2010 ultimate.
+Conception :  RationalRows Entreprise edition.
+
+Programmation : language C#.
+conception :UML2.0.
+
+ 
+Mastére Professionnel Inginerie des systemes d'information 2010.
+
+Configuration requis :
+-framework 3.5 ou ultérieure
+-Ram 512 M ou plus
+-Puntium 4 Ou plus 
+
+mnasserbilel@gmail.com
+charfeddine.mahmoud@gmail.com
+issam.vdp@gmail.com
+                                                                      
+
+
+
+This program is free software;
+you can redistribute it and/or modify it under the terms of the GNU General Public License as published 
+by the FS MONASTIR;
+either version 1.0 of the License,
+or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+
+                                                                                                                MERCI

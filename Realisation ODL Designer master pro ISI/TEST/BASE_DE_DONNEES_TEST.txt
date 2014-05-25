@@ -1,0 +1,36 @@
+Class ETUDIANT ( EXTENT ETUDIANTS KEY NCE ) : PERSONNE 
+ 
+{
+ Attribute Int NCE;
+ Attribute Int TD;
+ Attribute Int TP;
+ Attribute String FILIERE;
+Void CALCULER MOY() ; 
+RelationShip  < ENSEIGNANT > ETUDIE INVERSE ENSEIGNANT :: ENSEIGNE ;
+ } 
+ Class ENSEIGNANT ( EXTENT ENSEIGNANTS KEY NSS ) : PERSONNE 
+ 
+{
+ Attribute Int NSS;
+ Attribute String GRADE;
+ Attribute String SPECIALITÉ;
+ Attribute Float SALAIRE;
+RelationShip  < MATIERE > ENSEIGNE INVERSE MATIERE :: ETUDIE ;
+RelationShip List< ETUDIANT > ENSEIGNE1 ;
+ } 
+ Class MATIERE ( EXTENT MATIERES KEY NOM )
+{
+ Attribute String NOM;
+ Attribute Float COEFFICIENT;
+Void AFFICHER STATISTIQUE() ; 
+RelationShip  < ENSEIGNANT > ESTENSEIGNEPAR INVERSE ENSEIGNANT :: ENSEIGNE ;
+ } 
+ Interface PERSONNE 
+{
+ Attribute String NOM;
+ Attribute String PRENOM;
+ Attribute String AGE;
+ Attribute String DATE DE NAISSANCS;
+Void CALCULER AGE(Date) ; 
+ } 
+ 
