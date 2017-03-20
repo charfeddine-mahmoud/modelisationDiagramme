@@ -1,12 +1,12 @@
-                                    Faculté des Sciences de Monastir
-                              Département des Sciences de l'Informatique
+                                    FacultÃ© des Sciences de Monastir
+                              DÃ©partement des Sciences de l'Informatique
                                             2010-2011
 
 
-Ceci est un logiciel qui est develloppé dans le cadre d'un mini projet de Base de Données Objets
-chez Madame Nacira Intitulé Assistant de Code ODL(Objet data language).
+Ceci est un logiciel qui est develloppÃ© dans le cadre d'un mini projet de Base de DonnÃ©es Objets
+chez Madame Nacira IntitulÃ© Assistant de Code ODL(Objet data language).
 
-Réaliser par:
+RÃ©aliser par:
 
 Bilel Mnasser TD2 TP3.
 Charfeddine Mahmoud TD1 TP1.
@@ -20,14 +20,14 @@ Programmation : language C#.
 conception :UML2.0.
 
  
-Mastére Professionnel Inginerie des systemes d'information 2010.
+MastÃ©re Professionnel Inginerie des systemes d'information 2010.
 
 Configuration requis :
--framework 3.5 ou ultérieure
+-framework 3.5 ou ultÃ©rieure
 -Ram 512 M ou plus
 -Puntium 4 Ou plus 
 
-mnasserbilel@gmail.com
+bilelmnasser@live.fr
 charfeddine.mahmoud@gmail.com
 issam.vdp@gmail.com
                                                                       
