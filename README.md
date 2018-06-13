@@ -12,7 +12,7 @@ d’attributs, des méthodes et des relations entre les classes.
 ## Author
 
 * Bilel Mnasser (BilelMnasser)
-  bilelmnasser@gmail.com
+  bilelmnasser@live.fr
 * Mahmoud Charfeddine (MahmoudCharfeddine)
   charfeddine.mahmoud@gmail.com
 * Issam Eddine Zrelli (IssamEddineZrelli)
